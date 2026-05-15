@@ -1,6 +1,6 @@
 # GitHub User Activity Tracking Application
 
-project URL : https://roadmap.sh/projects/github-user-activity
+
 A Simple Java-Based console application that fetches and analyzes a GitHub user's recent public activity using GitHub Rest API
 
 ## Features
